@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\Dzaruk\Desktop\lab13\lab13\main.cpp(18,10): warning C4067:  непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Dzaruk\Desktop\lab13\lab13\main.cpp(135,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Dzaruk\Desktop\lab13\lab13\main.cpp(141,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Dzaruk\Desktop\lab13\lab13\main.cpp(143,29): warning C4838:  преобразование из "double" в "GLfloat" требует сужающего преобразования
+C:\Users\Dzaruk\Desktop\lab13\lab13\main.cpp(143,29): warning C4244:  инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Dzaruk\Desktop\lab13\lab13\main.cpp(143,51): warning C4838:  преобразование из "double" в "GLfloat" требует сужающего преобразования
+C:\Users\Dzaruk\Desktop\lab13\lab13\main.cpp(143,51): warning C4244:  инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Dzaruk\Desktop\lab13\lab13\main.cpp(143,73): warning C4838:  преобразование из "double" в "GLfloat" требует сужающего преобразования
+C:\Users\Dzaruk\Desktop\lab13\lab13\main.cpp(143,73): warning C4244:  инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Dzaruk\Desktop\lab13\lab13\main.cpp(146,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Dzaruk\Desktop\lab13\lab13\main.cpp(279,34): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Dzaruk\Desktop\lab13\lab13\main.cpp(280,34): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Dzaruk\Desktop\lab13\lab13\main.cpp(285,34): warning C4244:  -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Dzaruk\Desktop\lab13\lab13\main.cpp(286,34): warning C4244:  -=: преобразование "double" в "float", возможна потеря данных
+  lab13.vcxproj -> C:\Users\Dzaruk\Desktop\lab13\Debug\lab13.exe
